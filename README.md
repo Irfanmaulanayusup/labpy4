@@ -5,8 +5,8 @@ Kelas : TI.24.A.5 <p>
 Mata Kuliah : Bahasa Pemrograman <p>
 # ```Menambahkan data ke dalam sebuah list:```
 ## flowchart
-![gambar 2](screenshot/ft1.png)
-![gambar 3](screenshot/ft2.png)
+![gambar 2](labpy4/ft1.png)
+![gambar 3](labpy4/ft2.png)
 ### Alur Algoritma
  1. Start (Mulai):
     - Program dimulai.
