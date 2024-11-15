@@ -28,6 +28,6 @@ Mata Kuliah : Bahasa Pemrograman <p>
     - Program selesai.
    
 ## Program python
-![gambar 4](screenshot/ft3.png)
+![gambar 4](program1.png)
 ## Hasil eksekusi program
-![gambar 5](screenshot/ft4.png)
+![gambar 5](hasil1.png)
