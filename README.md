@@ -29,5 +29,5 @@ Mata Kuliah : Bahasa Pemrograman <p>
    
 ## Program python
 ![gambar 4](program1.png)
-## Hasil eksekusi program
+## Hasil program
 ![gambar 5](hasil1.png)
