@@ -7,7 +7,7 @@ Mata Kuliah : Bahasa Pemrograman <p>
 ## flowchart
 ![gambar 2](ft1.png)
 ![gambar 3](ft2.png)
-### Alur Algoritma
+### Alur Pada Flowchartnya
  1. Start (Mulai):
     - Program dimulai.
  2. Inisialisasi List data_mahasiswa:
